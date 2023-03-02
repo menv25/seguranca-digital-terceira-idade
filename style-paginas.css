@@ -8,11 +8,14 @@
         background-color: cadetblue;
         margin: auto;
         border: 1 px ;
+         opacity: 0.5;
+         display: table-cell;
+         vertical-align: middle;
+       
+    
+     }
+     .texto {
         text-align: justify;
         display: table-cell;
         vertical-align: middle;
-
-        opacity: 0.5;
-       
-    
      }
