@@ -1,18 +1,18 @@
-head body main {
-        height: 100vh;
-        background-color: #000;
-        background-image: url('back.jpg');
-        background-position: center top;
-        background-repeat: no-repeat;
-        background-size: cover;
-         
-        
-        
-     }
+@charset "UTF-8";
+* {
+    font-family: Arial;
+}
      .produtos-main {
-        width: 500px;
+        width: 100%;
         padding: 100px;
+        background-color: cadetblue;
         margin: auto;
         border: 1 px ;
+        text-align: justify;
+        display: table-cell;
+        vertical-align: middle;
+
+        opacity: 0.5;
+       
     
      }
