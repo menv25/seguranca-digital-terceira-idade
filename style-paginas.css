@@ -12,10 +12,27 @@
          display: table-cell;
          vertical-align: middle;
        
-    
-     }
+    }
      .texto {
         text-align: justify;
         display: table-cell;
         vertical-align: middle;
      }
+.cabecalhoPrincipal-nav-link {
+    padding: 10px;
+	margin-bottom: 10px;
+	color: #cda9c8;
+	background-color: #FFF;
+	text-decoration: none;
+	transition: .5s;
+	display: inline-block;
+    border-bottom: 1px solid #a918a7;
+
+}
+.texto-principal { 
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+
+}
